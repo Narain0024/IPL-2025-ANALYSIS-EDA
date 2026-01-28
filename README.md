@@ -62,7 +62,7 @@ ipl-2025-eda/
 Some of the most important visual findings from the EDA:
 
 ### 🟧 **Top Run Scorers**
-![Top Run Scorers](images/plots/top_run_scorers.png)
+![Top Run Scorers](ipl-2025-eda\images\plots\TOP 10 RUN SCORERS IPL2025.png)
 
 ### 🟣 **Top Wicket Takers**
 ![Top Wicket Takers](images/plots/top_wicket_takers.png)
